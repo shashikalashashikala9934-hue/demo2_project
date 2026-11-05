@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 This Is My frist git project
+=======
+This is my frist git project
+This is my First Git Project
+>>>>>>> 2f0233cf9f05778d484918181d3f7b554b6b994b
